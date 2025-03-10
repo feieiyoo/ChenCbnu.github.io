@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a professor at iSchool of Beijing Normal University of Science and Technology (BNU). I received PhD degree of Information Science from Nanjing University, China. I have published more than 100 publications, including JASIST, IPM, LISR, TFSC, Aslib JIM, JOI, OIR, SCIM, ACL, NAACL, etc. I serve as an Associate Editor of Data and Information Management，Frontiers in Research Metrics and Analytics, Editorial Board Member and Managing Guest Editor for 10 international journals (Patterns, IPM, SCIM, OIR, Aslib JIM, TEL, IDD, NLE, JDIS, DIM, DI, etc.) and PC members of several international conferences (ACL, IJCAI, EMNLP, NAACL, EACL, AACL, IJCNLP, NLPCC, ASIS&T, JCDL, iConference, ISSI, etc.) in fields of natural language processing and scientometrics. My research fields include information retrieval, information organization, text mining and nature language processing. Currently, I am focusing on scientific text mining, knowledge entity extraction and evaluation, keyphrase extraction, social media mining.
 
 A data-driven personal website
 ======
