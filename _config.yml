@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "网站名字"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Chong Chen"
+  name             : "陈翀"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Beijing"
-  employer         : "Beijing Noraml University"
+  employer         : "北京师范大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chenchong@bnu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
