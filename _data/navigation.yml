@@ -6,13 +6,13 @@
 
 main:
   - title: "研究方向"
-    url: /teaching/    
+    url: /portfolio/    
   
   - title: "发表论文"
     url: /publications/
 
   - title: "教学课程"
-    url: /talks/    
+    url: /teaching/    
     
   - title: "人员介绍"
     url: /portfolio/
