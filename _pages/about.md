@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "简介"
+title: "个人介绍"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-电子邮箱：chenchong@bnu.edu.cn	
-研究领域：数据智能、知识组织、信息分析
+电子邮箱：chenchong@bnu.edu.cn\
+研究领域：数据智能、知识组织、信息分析\
 通讯地址：海淀区新街口外大街19号主楼B505
 
 教育背景
