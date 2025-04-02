@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-个人简介
+电子邮箱：chenchong@bnu.edu.cn	
+研究领域：数据智能、知识组织、信息分析
 
 教育背景
 ------
