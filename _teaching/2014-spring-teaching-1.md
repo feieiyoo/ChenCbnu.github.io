@@ -1,19 +1,13 @@
 ---
-title: "信息组织"
+title: "本科生课程"
 collection: teaching
-type: "本科生专业必修课程"
 permalink: /teaching/2014-spring-teaching-1
-# venue: "University 1, Department"
-# date: 2014-01-01
-# location: "City, Country"
 ---
 
-课程介绍
-
-Heading 1
+大数据导论
 ======
 
-Heading 2
+信息组织
 ======
 
 Heading 3
