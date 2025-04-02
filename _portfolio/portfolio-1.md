@@ -1,5 +1,5 @@
 ---
-title: "知识组织"
+title: "数据智能"
 excerpt: "介绍<br/><img src='/images/500x300.png'>"
 collection: 研究方向
 ---
