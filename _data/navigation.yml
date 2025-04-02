@@ -7,9 +7,10 @@
 main:
   - title: "研究方向"
     url: /portfolio/    
+    
+  - title: "教学课程"
+    url: /teaching/   
   
   - title: "发表论文"
     url: /publications/
-
-  - title: "教学课程"
-    url: /teaching/    
+ 
