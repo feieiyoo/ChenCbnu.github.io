@@ -1,20 +1,8 @@
 ---
-title: "大数据导论"
-collection: teaching
-type: "本科生专业必修课程"
-permalink: /teaching/2015-spring-teaching-1
-# venue: "University 1, Department"
-# date: 2015-01-01
-# location: "City, Country"
+title: "研究生课程"
+excerpt: "信息资源管理技术<br>
+知识组织与发现"
+collection: 教学课程
 ---
 
-课程介绍
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
