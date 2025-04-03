@@ -1,5 +1,5 @@
 ---
-title: "陈翀, 程子佳, 王传清, 李蕾. 基于评审意见的科技论文要点识别与利用[J]. 情报学报, 2023, 42(5): 562-574. 情报学报, 2023, 42(5): 562-574."
+title: "李春秋，王嘉怡、王一凡、陈翀. 科研人员学术专长的属性度量与应用研究，图书情报工作，已录用"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
