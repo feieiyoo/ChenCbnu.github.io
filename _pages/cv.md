@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "人才培养"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
