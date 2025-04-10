@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "发表论文"
+title: ""
 permalink: /publication/
 author_profile: true
 redirect_from:
